@@ -1,2 +1,3 @@
 Problem Zero
-<img width="1707" height="908" alt="image" src="https://github.com/user-attachments/assets/41d80e30-6e20-4eb6-b072-a2be44dc795e" />
+<img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/94459d45-4715-42b9-af23-1bc77c1de482" />
+
