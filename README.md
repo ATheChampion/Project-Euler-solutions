@@ -3,3 +3,6 @@ Problem Zero
 
 Problem 1
 <img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/20fd9bbd-370d-40eb-8132-c13c360946ed" />
+
+Problem 2
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/c7c486a6-f6ec-4317-8420-a2456fc5f1fa" />
