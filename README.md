@@ -1,3 +1,5 @@
 Problem Zero
 <img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/94459d45-4715-42b9-af23-1bc77c1de482" />
 
+Problem 1
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/20fd9bbd-370d-40eb-8132-c13c360946ed" />
