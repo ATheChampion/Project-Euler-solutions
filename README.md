@@ -9,3 +9,6 @@ Problem 2
 
 Problem 3
 <img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/1473974c-df40-46a0-953b-b0745cad09c5" />
+
+Problem 4
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/d319cf82-88d1-4652-bfa9-bba9d28d87cf" />
