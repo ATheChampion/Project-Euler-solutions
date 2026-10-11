@@ -6,3 +6,6 @@ Problem 1
 
 Problem 2
 <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/c7c486a6-f6ec-4317-8420-a2456fc5f1fa" />
+
+Problem 3
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/1473974c-df40-46a0-953b-b0745cad09c5" />
