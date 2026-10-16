@@ -15,3 +15,6 @@ Problem 4
 
 Problem 6
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/3174169e-b8c0-4ac9-9ade-033122b732a8" />
+
+Problem 7
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/7183ba76-7838-4664-a98d-7445d5731ed4" />
