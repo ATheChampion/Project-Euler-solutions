@@ -27,3 +27,6 @@ Problem 20
 
 Problem 30
 <img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/3f1d1e5b-8076-4b7b-842a-d40fef40d646" />
+
+Problem 34
+<img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/d5d3034d-0a67-4132-b1b7-00b2fb20e0a2" />
