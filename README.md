@@ -33,3 +33,6 @@ Problem 30
 
 Problem 34
 <img width="1920" height="1043" alt="image" src="https://github.com/user-attachments/assets/d5d3034d-0a67-4132-b1b7-00b2fb20e0a2" />
+
+Problem 36
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/0f32b372-8771-4fbf-9359-2dc042cccec1" />
