@@ -34,6 +34,9 @@ Problem 16
 Problem 20
 <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/52bb17b4-97ed-4227-a7bc-ba7111c80c35" />
 
+Problem 28
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/7ccca6d0-b609-4e43-9e75-7940c421e1d5" />
+
 Problem 30
 <img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/3f1d1e5b-8076-4b7b-842a-d40fef40d646" />
 
